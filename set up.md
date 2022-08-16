@@ -9,5 +9,3 @@ $ docker run --name mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
 - VScodeのコンテナーから作成したコンテナーを開く
 - 拡張機能のMySQLを開く
 - +ボタンからconnect to serverを開き、SQLサーバーに接続する。
-
-test
